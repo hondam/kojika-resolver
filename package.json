@@ -1,0 +1,19 @@
+{
+  "author": "hondam <info@hondam.org> (http://hondam.org)",
+  "name": "kojika-resolver",
+  "description": "Dns cache server with redis",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/hondam/kojika-resolver"
+  },
+  "dependencies": {
+    "async": ">0.1.18",
+    "native-dns": ">0.0.7",
+    "redis": ">0.7.2",
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.6.17"
+  }
+}
